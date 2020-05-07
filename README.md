@@ -1,4 +1,2 @@
 # test
-test rep
-
-ssh测试成功！！！
+Jeknkins+maven+git+github+spring boot实现自动化部署
